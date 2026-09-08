@@ -5,7 +5,7 @@ about:
   head: 17a2592
   archived: false
   latestVersion: "v0.10.0"
-  collectedAt: 2026-09-08T02:52:30Z
+  collectedAt: 2026-09-08T05:29:47Z
 timeline:
   created: 2024-02-21
   lastCommit: 2026-08-25
@@ -81,7 +81,7 @@ total:
   commit: 384
 ---
 path: /home/runner/.x-repo/github.com/Linus-Mussmaecher/rucola
-collectedAt: 2026-09-08T02:52:31Z
+collectedAt: 2026-09-08T05:29:48Z
 loc:
   Rust:
     code: 4814
