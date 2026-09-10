@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2144973,
       "digest": "sha256:4d2d593fcae217554e5c643ab9ba6dce4f1b9aafe68cc1a003fb75294a3c58bf",
-      "download_count": 18,
+      "download_count": 21,
       "created_at": "2026-06-24T16:47:51Z",
       "updated_at": "2026-06-24T16:47:53Z",
       "browser_download_url": "https://github.com/Linus-Mussmaecher/rucola/releases/download/v0.10.0/rucola-notes-0.10.0-x86_64.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 1901436,
       "digest": "sha256:e07f6bb722f99e1f3a1a5747bf6ebd4667ba07d7248e5b313beec54fddcf7ced",
-      "download_count": 125,
+      "download_count": 127,
       "created_at": "2026-06-24T16:44:13Z",
       "updated_at": "2026-06-24T16:44:14Z",
       "browser_download_url": "https://github.com/Linus-Mussmaecher/rucola/releases/download/v0.10.0/rucola-notes-x86_64-unknown-linux-gnu.tar.xz"

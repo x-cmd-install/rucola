@@ -1,0 +1,157 @@
+- repo: arch
+  subrepo: extra
+  srcname: rucola
+  binname: rucola
+  visiblename: rucola
+  version: 0.10.0
+  origversion: 0.10.0-1
+  status: newest
+  summary: Terminal-based markdown note manager
+  licenses:
+    - GPL-3.0-only
+- repo: freebsd
+  srcname: sysutils/rucola
+  binname: rucola
+  visiblename: sysutils/rucola
+  version: 0.10.0
+  origversion: 0.10.0_1
+  status: newest
+  summary: Terminal-based markdown note manager
+  maintainers:
+    - nivit@freebsd.org
+  categories:
+    - sysutils
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: rucola
+  binname: rucola
+  visiblename: rucola
+  version: 0.10.0
+  origversion: 0.10.0-1
+  status: newest
+  summary: Terminal-based markdown note manager
+  licenses:
+    - GPL-3.0-only
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: rucola
+  binname: rucola
+  visiblename: rucola
+  version: 0.10.0
+  origversion: 0.10.0-1
+  status: newest
+  summary: Terminal-based markdown note manager
+  licenses:
+    - GPL-3.0-only
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: rucola
+  binname: rucola
+  visiblename: rucola
+  version: 0.10.0
+  origversion: 0.10.0-1
+  status: newest
+  summary: Terminal-based markdown note manager
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_25_05
+  srcname: rucola
+  visiblename: rucola
+  version: 0.5.0
+  origversion: null
+  status: outdated
+  summary: Terminal-based markdown note manager
+  maintainers:
+    - donovanglover@github
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_stable_25_11
+  srcname: rucola
+  visiblename: rucola
+  version: 0.5.0
+  origversion: null
+  status: outdated
+  summary: Terminal-based markdown note manager
+  maintainers:
+    - donovanglover@github
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_stable_26_05
+  srcname: rucola
+  visiblename: rucola
+  version: 0.5.0
+  origversion: null
+  status: outdated
+  summary: Terminal-based markdown note manager
+  maintainers:
+    - donovanglover@github
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_unstable
+  srcname: rucola
+  visiblename: rucola
+  version: 0.10.0
+  origversion: null
+  status: newest
+  summary: Terminal-based markdown note manager
+  maintainers:
+    - donovanglover@github
+  licenses:
+    - GPL-3.0-or-later
+- repo: parabola
+  subrepo: extra
+  srcname: rucola
+  binname: rucola
+  visiblename: rucola
+  version: 0.10.0
+  origversion: 0.10.0-1
+  status: newest
+  summary: Terminal-based markdown note manager
+  licenses:
+    - GPL-3.0-only
+- repo: pkgsrc_2026_1
+  srcname: textproc/rucola
+  binname: rucola
+  visiblename: textproc/rucola
+  version: 0.8.2
+  origversion: null
+  status: outdated
+  summary: Terminal-based markdown note manager
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - textproc
+- repo: pkgsrc_2026_2
+  srcname: textproc/rucola
+  binname: rucola
+  visiblename: textproc/rucola
+  version: 0.9.0
+  origversion: null
+  status: outdated
+  summary: Terminal-based markdown note manager
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - textproc
+- repo: pkgsrc_current
+  srcname: textproc/rucola
+  binname: rucola
+  visiblename: textproc/rucola
+  version: 0.10.0
+  origversion: null
+  status: newest
+  summary: Terminal-based markdown note manager
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - textproc
+- repo: tur
+  srcname: rucola
+  binname: rucola
+  visiblename: rucola
+  version: 0.10.0
+  origversion: null
+  status: newest
+  summary: Terminal-based markdown note manager
+  maintainers:
+    - termux-user-repository@github

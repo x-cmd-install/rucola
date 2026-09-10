@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.10.0"
   latestRelease: "v0.10.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:41:44Z
+  collectedAt: 2026-09-10T20:34:41Z
 timeline:
   created: 2024-02-21
   lastCommit: 2026-08-25
@@ -85,7 +85,7 @@ total:
   commit: 384
 ---
 path: /home/runner/.x-repo/github.com/Linus-Mussmaecher/rucola
-collectedAt: 2026-09-10T05:41:45Z
+collectedAt: 2026-09-10T20:34:41Z
 loc:
   Rust:
     code: 4814
