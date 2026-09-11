@@ -37,7 +37,7 @@ Total: **5,193** lines of code across **45** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 534 · **Forks**: 22 · **Open issues**: 38 · **Contributors**: 11
+- **Stars**: 535 · **Forks**: 22 · **Open issues**: 38 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -93,4 +93,4 @@ Install metadata for rucola lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:36:02Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:29:14Z._
