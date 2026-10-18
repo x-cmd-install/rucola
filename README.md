@@ -47,12 +47,12 @@ Total: **5,193** lines of code across **45** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 0 | 0 | 1 | 1 | 0 | 0 |
-| last60d | 2026-08-18 | 0 | 2 | 1 | 1 | 0 | 2 |
-| 90d | 2026-07-19 | 0 | 2 | 1 | 2 | 0 | 3 |
-| last180d | 2026-04-20 | 1 | 4 | 1 | 6 | 0 | 26 |
-| 360d | 2025-10-22 | 6 | 11 | 1 | 15 | 2 | 80 |
-| last720d | 2024-10-27 | 9 | 17 | 1 | 28 | 2 | 138 |
+| 30d | 2026-09-18 | 0 | 0 | 1 | 1 | 0 | 0 |
+| last60d | 2026-08-19 | 0 | 2 | 1 | 1 | 0 | 0 |
+| 90d | 2026-07-20 | 0 | 2 | 1 | 2 | 0 | 3 |
+| last180d | 2026-04-21 | 1 | 4 | 1 | 6 | 0 | 26 |
+| 360d | 2025-10-23 | 6 | 11 | 1 | 15 | 2 | 71 |
+| last720d | 2024-10-28 | 9 | 17 | 1 | 28 | 2 | 138 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for rucola lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T04:59:44Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T05:12:41Z._
