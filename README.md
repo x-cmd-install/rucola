@@ -32,7 +32,7 @@ Total: **5,193** lines of code across **45** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.10.0` (2026-06-24)
-- **Last commit**: 2026-08-25
+- **Last commit**: 2026-10-18
 - **Assets in release**: 16
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **5,193** lines of code across **45** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 18 · **Open PRs**: 1 · **Closed issues**: 37 · **Open issues**: 2 · **Commits**: 384
+- **Releases**: 12 · **Merged PRs**: 19 · **Open PRs**: 0 · **Closed issues**: 37 · **Open issues**: 2 · **Commits**: 385
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 0 | 0 | 1 | 1 | 0 | 0 |
-| last60d | 2026-08-19 | 0 | 2 | 1 | 1 | 0 | 0 |
-| 90d | 2026-07-20 | 0 | 2 | 1 | 2 | 0 | 3 |
-| last180d | 2026-04-21 | 1 | 4 | 1 | 6 | 0 | 26 |
-| 360d | 2025-10-23 | 6 | 11 | 1 | 15 | 2 | 71 |
-| last720d | 2024-10-28 | 9 | 17 | 1 | 28 | 2 | 138 |
+| 30d | 2026-09-19 | 0 | 1 | 0 | 1 | 0 | 1 |
+| last60d | 2026-08-20 | 0 | 3 | 0 | 1 | 0 | 1 |
+| 90d | 2026-07-21 | 0 | 3 | 0 | 2 | 0 | 4 |
+| last180d | 2026-04-22 | 1 | 5 | 0 | 6 | 0 | 27 |
+| 360d | 2025-10-24 | 6 | 12 | 0 | 14 | 2 | 72 |
+| last720d | 2024-10-29 | 9 | 18 | 0 | 28 | 2 | 139 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for rucola lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T05:12:41Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T05:23:17Z._
