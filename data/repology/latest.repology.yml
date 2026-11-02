@@ -21,28 +21,6 @@
     - nivit@freebsd.org
   categories:
     - sysutils
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: rucola
-  binname: rucola
-  visiblename: rucola
-  version: 0.10.0
-  origversion: 0.10.0-1
-  status: newest
-  summary: Terminal-based markdown note manager
-  licenses:
-    - GPL-3.0-only
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: rucola
-  binname: rucola
-  visiblename: rucola
-  version: 0.10.0
-  origversion: 0.10.0-1
-  status: newest
-  summary: Terminal-based markdown note manager
-  licenses:
-    - GPL-3.0-only
 - repo: manjaro_unstable
   subrepo: extra
   srcname: rucola
