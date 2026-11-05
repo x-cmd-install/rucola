@@ -1,3 +1,14 @@
+- repo: nix_stable_25_05
+  srcname: rucola
+  visiblename: rucola
+  version: 0.5.0
+  origversion: null
+  status: outdated
+  summary: Terminal-based markdown note manager
+  maintainers:
+    - donovanglover@github
+  licenses:
+    - GPL-3.0-or-later
 - repo: arch
   subrepo: extra
   srcname: rucola
@@ -5,6 +16,17 @@
   visiblename: rucola
   version: 0.10.0
   origversion: 0.10.0-1
+  status: newest
+  summary: Terminal-based markdown note manager
+  licenses:
+    - GPL-3.0-only
+- repo: arch_testing
+  subrepo: extra-testing
+  srcname: rucola
+  binname: rucola
+  visiblename: rucola
+  version: 0.10.0
+  origversion: 0.10.0-2
   status: newest
   summary: Terminal-based markdown note manager
   licenses:
@@ -32,17 +54,6 @@
   summary: Terminal-based markdown note manager
   licenses:
     - GPL-3.0-only
-- repo: nix_stable_25_05
-  srcname: rucola
-  visiblename: rucola
-  version: 0.5.0
-  origversion: null
-  status: outdated
-  summary: Terminal-based markdown note manager
-  maintainers:
-    - donovanglover@github
-  licenses:
-    - GPL-3.0-or-later
 - repo: nix_stable_25_11
   srcname: rucola
   visiblename: rucola
