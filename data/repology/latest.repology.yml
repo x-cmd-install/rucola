@@ -1,52 +1,5 @@
-- repo: pkgsrc_current
-  srcname: textproc/rucola
-  binname: rucola
-  visiblename: textproc/rucola
-  version: 0.10.0
-  origversion: null
-  status: newest
-  summary: Terminal-based markdown note manager
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - textproc
-- repo: pkgsrc_2026_2
-  srcname: textproc/rucola
-  binname: rucola
-  visiblename: textproc/rucola
-  version: 0.9.0
-  origversion: null
-  status: outdated
-  summary: Terminal-based markdown note manager
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - textproc
-- repo: pkgsrc_2026_3
-  srcname: textproc/rucola
-  binname: rucola
-  visiblename: textproc/rucola
-  version: 0.10.0
-  origversion: null
-  status: newest
-  summary: Terminal-based markdown note manager
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - textproc
 - repo: arch
   subrepo: extra
-  srcname: rucola
-  binname: rucola
-  visiblename: rucola
-  version: 0.10.0
-  origversion: 0.10.0-1
-  status: newest
-  summary: Terminal-based markdown note manager
-  licenses:
-    - GPL-3.0-only
-- repo: arch_testing
-  subrepo: extra-testing
   srcname: rucola
   binname: rucola
   visiblename: rucola
@@ -96,7 +49,7 @@
   binname: rucola
   visiblename: rucola
   version: 0.10.0
-  origversion: 0.10.0-1
+  origversion: 0.10.0-2
   status: newest
   summary: Terminal-based markdown note manager
   licenses:
@@ -156,6 +109,42 @@
   summary: Terminal-based markdown note manager
   licenses:
     - GPL-3.0-only
+- repo: pkgsrc_2026_2
+  srcname: textproc/rucola
+  binname: rucola
+  visiblename: textproc/rucola
+  version: 0.9.0
+  origversion: null
+  status: outdated
+  summary: Terminal-based markdown note manager
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - textproc
+- repo: pkgsrc_2026_3
+  srcname: textproc/rucola
+  binname: rucola
+  visiblename: textproc/rucola
+  version: 0.10.0
+  origversion: null
+  status: newest
+  summary: Terminal-based markdown note manager
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - textproc
+- repo: pkgsrc_current
+  srcname: textproc/rucola
+  binname: rucola
+  visiblename: textproc/rucola
+  version: 0.10.0
+  origversion: null
+  status: newest
+  summary: Terminal-based markdown note manager
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - textproc
 - repo: tur
   srcname: rucola
   binname: rucola
