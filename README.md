@@ -37,7 +37,7 @@ Total: **5,193** lines of code across **45** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 550 · **Forks**: 22 · **Open issues**: 39 · **Contributors**: 11
+- **Stars**: 552 · **Forks**: 22 · **Open issues**: 39 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **5,193** lines of code across **45** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-11 | 0 | 1 | 0 | 1 | 0 | 1 |
-| 90d | 2026-08-12 | 0 | 3 | 0 | 1 | 0 | 3 |
-| last180d | 2026-05-14 | 1 | 3 | 0 | 4 | 0 | 20 |
-| 360d | 2025-11-15 | 5 | 11 | 0 | 11 | 1 | 66 |
-| last720d | 2024-11-20 | 8 | 18 | 0 | 27 | 2 | 135 |
+| 30d | 2026-10-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-12 | 0 | 1 | 0 | 1 | 0 | 1 |
+| 90d | 2026-08-13 | 0 | 3 | 0 | 1 | 0 | 3 |
+| last180d | 2026-05-15 | 1 | 3 | 0 | 4 | 0 | 20 |
+| 360d | 2025-11-16 | 5 | 11 | 0 | 11 | 1 | 66 |
+| last720d | 2024-11-21 | 8 | 18 | 0 | 27 | 2 | 135 |
 
 ## Release assets
 
@@ -77,7 +77,7 @@ Total: **5,193** lines of code across **45** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **15** distros on [repology.org](https://repology.org/project/rucola). **11** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+Reported by **14** distros on [repology.org](https://repology.org/project/rucola). **10** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -93,4 +93,4 @@ Install metadata for rucola lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:10:08Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:08:10Z._
