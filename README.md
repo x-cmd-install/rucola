@@ -47,12 +47,12 @@ Total: **5,193** lines of code across **45** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 1 | 0 | 0 | 0 | 1 |
-| 90d | 2026-08-26 | 0 | 1 | 0 | 1 | 0 | 1 |
-| last180d | 2026-05-28 | 1 | 3 | 0 | 4 | 0 | 11 |
-| 360d | 2025-11-29 | 4 | 10 | 0 | 9 | 0 | 56 |
-| last720d | 2024-12-04 | 8 | 18 | 0 | 27 | 2 | 135 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 1 | 0 | 0 | 0 | 1 |
+| 90d | 2026-08-27 | 0 | 1 | 0 | 1 | 0 | 1 |
+| last180d | 2026-05-29 | 1 | 3 | 0 | 4 | 0 | 11 |
+| 360d | 2025-11-30 | 4 | 10 | 0 | 9 | 0 | 56 |
+| last720d | 2024-12-05 | 8 | 18 | 0 | 27 | 2 | 135 |
 
 ## Release assets
 
@@ -75,15 +75,6 @@ Total: **5,193** lines of code across **45** files in the top 5 languages.
 | [source.tar.gz](https://github.com/Linus-Mussmaecher/rucola/releases/download/v0.10.0/source.tar.gz) | 242.0 KiB | `native/unknown` |
 | [source.tar.gz.sha256](https://github.com/Linus-Mussmaecher/rucola/releases/download/v0.10.0/source.tar.gz.sha256) | 81 B | `other` |
 
-## Distribution status
-
-Reported by **14** distros on [repology.org](https://repology.org/project/rucola). **10** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.10.0` | ✅ latest |
-| Nix unstable | `0.10.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for rucola lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `rucola` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -93,4 +84,4 @@ Install metadata for rucola lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:36:41Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:17:43Z._
